@@ -64,6 +64,7 @@ let evensArr = []
 //   console.log(evensArr)
 
 // }
+
 for(i = 0; nums.length; i++){
   if(nums[i] % 2 === 0){
     evensArr.push(nums[i])
@@ -110,7 +111,10 @@ var myFavoriteNumbers = [4,8,12,16,20,24];
 */
 
 //Code Here
+let someNum = 5
+console.log(myFavoriteNumbers[someNum])
 
+  
 
 ////////// PROBLEM 7 //////////
 
